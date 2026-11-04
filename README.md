@@ -14,7 +14,9 @@ Desenvolver um banco de dados hospitalar utilizando os conceitos de modelagem re
 
 O diagrama abaixo representa a estrutura do banco de dados, apresentando as tabelas, seus atributos e os relacionamentos entre elas.
 
-
+<img src="./diagrama.png" 
+       alt="Diagrama do Banco de Dados Hospitalar"
+       width="850">
 
 ## 📋 Estrutura das tabelas
 
